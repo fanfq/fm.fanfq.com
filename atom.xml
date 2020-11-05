@@ -6,7 +6,7 @@
   <link href="https://fm.fanfq.com/atom.xml" rel="self"/>
   
   <link href="https://fm.fanfq.com/"/>
-  <updated>2020-11-05T03:45:54.836Z</updated>
+  <updated>2020-11-05T08:49:36.406Z</updated>
   <id>https://fm.fanfq.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#5.咸鱼，拼多多，那些便宜的货源到底是哪里来的？</title>
+    <link href="https://fm.fanfq.com/vol5.html"/>
+    <id>https://fm.fanfq.com/vol5.html</id>
+    <published>2020-11-05T08:45:13.000Z</published>
+    <updated>2020-11-05T08:49:36.406Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="ckh4la68600007eqw3l1mc6gh"></div>  <script>const ap = new APlayer({      container: document.getElementById('ckh4la68600007eqw3l1mc6gh'),      audio: [{          name: '#5.咸鱼，拼多多，那些便宜的货源到底是哪里来的？',          url: 'https://dl.fanfq.com/fm.fanfq.com/fm005_20201105_16525557_688.mp3',          cover: 'https://dl.fanfq.com/fm.fanfq.com/fred_1024x1024_fm.jpg'      }]  });</script><p>这个话题在写稿的时候我有点犹豫，虽然我有过供应链上游的品牌方工作的经验但并不能以偏概全，也不能代表我所了解的就完全正确，但我还是想表达一下我的观点。</p>]]></content>
+    
+    
+    <summary type="html">我们经常可以看到在咸鱼拼多多里面看到便宜市场价7折，甚至更低折扣的产品，而这些卖家的货源渠道到底是哪里的来的呢？</summary>
+    
+    
+    <content src="https://dl.fanfq.com/fm.fanfq.com/fred_1024x1024_fm.jpg" type="image"/>
+    
+    
+    <category term="podcast" scheme="https://fm.fanfq.com/categories/podcast/"/>
+    
+    
+    <category term="播客" scheme="https://fm.fanfq.com/tags/%E6%92%AD%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>#4.整装待发扬帆起航，拒绝消费主义</title>
