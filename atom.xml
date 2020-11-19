@@ -6,7 +6,7 @@
   <link href="https://fm.fanfq.com/atom.xml" rel="self"/>
   
   <link href="https://fm.fanfq.com/"/>
-  <updated>2020-11-11T17:38:00.326Z</updated>
+  <updated>2020-11-19T07:03:50.107Z</updated>
   <id>https://fm.fanfq.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>本播客不在维护已整合到新的频道【另眼相看】欢迎订阅</title>
+    <link href="https://fm.fanfq.com/vol7.html"/>
+    <id>https://fm.fanfq.com/vol7.html</id>
+    <published>2020-11-19T06:59:45.000Z</published>
+    <updated>2020-11-19T07:03:50.107Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="ckhohnxwe0000svomgsgj01k2"></div>  <script>const ap = new APlayer({      container: document.getElementById('ckhohnxwe0000svomgsgj01k2'),      audio: [{          name: '本播客不在维护已整合到新的频道【另眼相看】欢迎订阅',          url: 'https://cdn.elselook.com/mp3/fm007_20201119_5232394_217.mp3',          cover: 'https://dl.fanfq.com/fm.fanfq.com/fred_1024x1024_fm.jpg'      }]  });</script><p>本播客不在维护已整合到新的频道【另眼相看】我们将会计划性的优化我们的节目， <a href="!https://www.elselook.com">www.elselook.com</a> 欢迎订阅</p>]]></content>
+    
+    
+    <summary type="html">本播客不在维护已整合到新的频道【另眼相看】我们将会计划性的优化我们的节目， www.elselook.com 欢迎订阅</summary>
+    
+    
+    <content src="https://dl.fanfq.com/fm.fanfq.com/fred_1024x1024_fm.jpg" type="image"/>
+    
+    
+    <category term="podcast" scheme="https://fm.fanfq.com/categories/podcast/"/>
+    
+    
+    <category term="播客" scheme="https://fm.fanfq.com/tags/%E6%92%AD%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>#6.我又消费了，作为一个扣B双十一被啪啪打脸</title>

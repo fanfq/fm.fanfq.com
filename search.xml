@@ -98,4 +98,18 @@
         <tag>播客</tag>
       </tags>
   </entry>
+  <entry>
+    <title>本播客不在维护已整合到新的频道【另眼相看】欢迎订阅</title>
+    <url>/vol7.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css" integrity="sha256-uqQQGnDcmRKvhKwc5Vm4XT1GQ2oV6t1U0NR2N9tV+BQ=" crossorigin="anonymous">  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js" integrity="sha256-6Y7CJDaltoeNgk+ZftgCD9jLgmGv4xKUo8nQ0HgAwVo=" crossorigin="anonymous"></script>  <div id="ckhohnxwe0000svomgsgj01k2"></div>  <script>const ap = new APlayer({      container: document.getElementById('ckhohnxwe0000svomgsgj01k2'),      audio: [{          name: '本播客不在维护已整合到新的频道【另眼相看】欢迎订阅',          url: 'https://cdn.elselook.com/mp3/fm007_20201119_5232394_217.mp3',          cover: 'https://dl.fanfq.com/fm.fanfq.com/fred_1024x1024_fm.jpg'      }]  });</script>
+
+<p>本播客不在维护已整合到新的频道【另眼相看】我们将会计划性的优化我们的节目， <a href="!https://www.elselook.com">www.elselook.com</a> 欢迎订阅</p>
+]]></content>
+      <categories>
+        <category>podcast</category>
+      </categories>
+      <tags>
+        <tag>播客</tag>
+      </tags>
+  </entry>
 </search>
